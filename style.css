@@ -106,7 +106,11 @@ body{
     margin: 0;
     font-size: 24px;
 }
-   
+   .checkbox{
+    width: 20px;
+    height: 20px;
+    cursor: pointer;
+}
 
 }
 
